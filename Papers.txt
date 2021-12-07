@@ -1,0 +1,6 @@
+LITERATURE REVIEW - 
+CEASE, a Corpus of Emotion Annotated Suicide notes in English ---> https://aclanthology.org/2020.lrec-1.201/
+A Multitask Framework to Detect Depression, Sentiment and Multi-label Emotion from Suicide Notes ---> https://link.springer.com/article/10.1007/s12559-021-09828-7
+Attention in Psychology, Neuroscience, and Machine Learning  ---> https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full
+Crossing the Cleft: Communication Challenges Between Neuroscience and Artificial Intelligence ---> https://www.frontiersin.org/articles/10.3389/fncom.2020.00039/full
+
